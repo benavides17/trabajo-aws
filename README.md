@@ -1,6 +1,8 @@
 # trabajo-aws
 Actividad Evaluativa 2
 
+<img width="336" height="276" alt="image" src="https://github.com/user-attachments/assets/12b4da8a-77ec-45f0-a7cf-44cb109c9a13" />
+
  
 
 Estudiante: 
@@ -53,7 +55,9 @@ Se definió un nombre único para el bucket.
 Se seleccionó la región correspondiente.
 Se deshabilitó el bloqueo de acceso público para permitir interacción desde el navegador.
 Se configuró CORS para permitir solicitudes externas.
- 
+
+ <img width="921" height="345" alt="image" src="https://github.com/user-attachments/assets/d68a2dd6-f4dc-4955-adfc-2f5a07a7a31a" />
+
 
 Configuración del hosting web
 Se subió el archivo index.html al almacenamiento.
@@ -61,6 +65,9 @@ Se habilitó:
 Hosting de sitio web estático.
 Acceso público al archivo.
 Esto permitió acceder a la interfaz desde el navegado
+
+<img width="847" height="663" alt="image" src="https://github.com/user-attachments/assets/f859eddc-bc5d-4499-a847-1f73f066c4b4" />
+
  
 Creación de la función de procesamiento
 Se creó una función que se ejecuta automáticamente cuando se sube una imagen.
@@ -69,12 +76,17 @@ Nombre de la función.
 Lenguaje de programación.
 Permisos básicos para ejecución.
 
+<img width="921" height="344" alt="image" src="https://github.com/user-attachments/assets/f2f46362-6b55-4af3-9ecb-77d5066f8532" />
+
+
 implementación del código de procesamiento
 La función desarrollada realiza las siguientes acciones:
 Obtiene la imagen cargada.
 Guarda una nueva versión de la imagen.
 Se agregó una validación importante para evitar que la función procese imágenes ya transformada
- 
+
+ <img width="921" height="323" alt="image" src="https://github.com/user-attachments/assets/dfaf7ef3-9e19-4c0b-b918-800d853c970e" />
+
 
 Instalación de dependencias
 Para procesar imágenes se utilizó una librería especializada.
@@ -85,6 +97,9 @@ Instalar dependencia.
 Crear archivo principal.
 Comprimir archivos.
 Subir a la función.
+
+<img width="921" height="356" alt="image" src="https://github.com/user-attachments/assets/a476e06d-491c-4383-99ac-2cdfe739ef85" />
+
 
 Solución de errores durante el desarrollo
 
@@ -100,6 +115,9 @@ Estos se solucionaron ajustando:
 Políticas de acceso
 Configuración de seguridad
 Código del frontend
+
+<img width="921" height="284" alt="image" src="https://github.com/user-attachments/assets/eff289e3-2591-4fe0-987a-b0d67130ac20" />
+
 
 Conclusiones
 
